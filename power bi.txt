@@ -1,0 +1,15 @@
+1. power bi desktop
+2.power bi mobile
+3.power bi service
+
+microsoft 
+
+power bi - visualisation, dashboard, report
+power query editor - data cleaning
+
+data cleaning, data modelling,
+dashboard,
+
+
+
+
